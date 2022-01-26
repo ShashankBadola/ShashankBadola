@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShashankBadola
 - 👀 I’m interested in programming & security.
-- 🌱 I’m currently learning fullstack.
-- 💞️ I’m looking to collaborate on python projects (backend).
+- 🌱 I’m currently learning HTML-CSS.
+- 💞️ I’m looking to collaborate on python projects.
 - 📫 You can reach me on shashankbadola@hotmail.com
 
 <!---
